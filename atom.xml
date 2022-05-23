@@ -6,7 +6,7 @@
   <link href="http://visualnull.club/atom.xml" rel="self"/>
   
   <link href="http://visualnull.club/"/>
-  <updated>2022-05-23T06:55:41.494Z</updated>
+  <updated>2022-05-23T07:10:10.628Z</updated>
   <id>http://visualnull.club/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://visualnull.club/2022/05/23/babyRop/"/>
     <id>http://visualnull.club/2022/05/23/babyRop/</id>
     <published>2022-05-23T06:51:55.000Z</published>
-    <updated>2022-05-23T06:55:41.494Z</updated>
+    <updated>2022-05-23T07:10:10.628Z</updated>
     
     <content type="html"><![CDATA[<p>test</p>]]></content>
     
@@ -35,7 +35,7 @@
     
     
     
-    <category term="CTF PWN ret2libc" scheme="http://visualnull.club/tags/CTF-PWN-ret2libc/"/>
+    <category term="PWN" scheme="http://visualnull.club/tags/PWN/"/>
     
   </entry>
   
